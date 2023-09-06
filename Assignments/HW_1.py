@@ -25,8 +25,8 @@
     to explain the code.
 '''
 total_coins = 0
-nickel_count = input()
-dime_count = input()
+nickel_count = int(input())
+dime_count = int(input())
 
 # write your code below
 
