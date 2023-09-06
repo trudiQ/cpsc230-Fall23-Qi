@@ -1,21 +1,34 @@
-## NOTE: This file is just for code, 
-## write your written report in a separate file and upload it as PDF
+# Homework for Lectures 1 & 2
+# NOTE: This file is ONLY for code and comments, 
+#       Write your written report in a separate document
+
+'''
+1. Write code to print out: Hello, what is your name?
+    then ask the user to input their name, 
+    assign their name to a variable called user_name
+    and print out: Hello [their name]
+'''
 
 
-#TODO 1. In the lines below,
-#   Output Hello, what is your name?
-#   Ask the user for their name
-#   Print out Hello [their name]
+
+'''
+2. Given variables x and y, can yo write code to assign 9 to x and x + 1 to y, 
+    and print out the values of x and y with one statement? Include comments to EACH line
+    to explain the code.
+'''
 
 
 
+'''
+2. Write a statement that assigns total_coins with the sum of nickel_count and 
+    dime_count to complete the code. Include comments to EACH line
+    to explain the code.
+'''
+total_coins = 0
+nickel_count = input()
+dime_count = input()
+
+# write your code below
 
 
-#TODO 2. Can you figure out what's causing these syntax errors and solve them?
-# uncomment each one and run to see the error message
-
-##-------------------------------------------------------
-# favorite_class = input("What's your favorite class? "))
-
-##-------------------------------------------------------
-# test = 'My grandma's pie is my favorite pie'
+print(total_coins)
