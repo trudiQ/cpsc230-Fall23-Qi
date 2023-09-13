@@ -17,8 +17,8 @@ Without using Python, figure out the answer to this statement.
 
 
 '''
-Using Comparison Operators, make a complicated statement (use at
- least 5 operators, repeats allowed) that evaluates to False.
-Check your answer using Python.
+Using Comparison operators and arithmetic operators, make a complicated 
+expression (use at least 5 operators, repeats allowed) that evaluates to False.
+Check your answer by printing out the result of the expression (should be a False).
 '''
 # your answer here
