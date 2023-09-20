@@ -40,4 +40,5 @@ Comparing those two variables using if-elif-else statements.
 Print who wins the game and how in one print statement.
 For example, "Player 1 wins! Scissors cut Paper!" (assume player1 chooses Scissors and player 2 chooses Paper.)
 If there is a tie, then print "It's a tie. One more time!"
+Note: Now, player 1 can choose any of those three options, not just Rock.
 '''
