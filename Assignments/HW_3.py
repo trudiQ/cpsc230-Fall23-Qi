@@ -38,6 +38,6 @@ is_memeber = True
 Ask the user for TWO inputs for the players and store them in the variables player1_choice and player2_choice.
 Comparing those two variables using if-elif-else statements. 
 Print who wins the game and how in one print statement.
-For example, "Player 1 wins! Rock crushes Scissors!" (assume player1 chooses Rock and player 2 chooses Scissors)
+For example, "Player 1 wins! Scissors cut Paper!" (assume player1 chooses Scissors and player 2 chooses Paper.)
 If there is a tie, then print "It's a tie. One more time!"
 '''
