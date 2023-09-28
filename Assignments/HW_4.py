@@ -23,7 +23,9 @@ i.e., you should see, 1, 3, 5, 7, 9, 11.
 guess too high, print out "wow I am younger than that!". If they guess
 too low, print out "hahaha I am older than that!". Once they
 guess correctly, print out a message telling them they are right and exit the loop.
-Use if-elif-else statements for this.
+Use if-elif-else statements.
+Use break to exit the loop.
+Hint: Check the example "Break" of Page 16 in Lecture 7.
 '''
 # Uncomment the code below and COMPLETE it.
 #my_age = 18
