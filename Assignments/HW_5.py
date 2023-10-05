@@ -44,8 +44,8 @@ Hint:
 # UNCOMMENT the code below and COMPLETE it.
 '''
 while True:
-    # ask the user to for a password
-    my_password = input("Please enter a password: ")
+    # ask the user for a password
+    my_password = input("Please enter a password containing at least two words separated by spaces: ")
 
     ###  write your code below ###   
     # TODO: split the password into tokens and store the result to my_tokens
