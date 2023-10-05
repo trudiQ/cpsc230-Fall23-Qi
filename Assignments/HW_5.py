@@ -38,6 +38,7 @@ Hint:
 - 
 Hint:
     Refer to Question 3 of lecture 9's in-class exercise on how to evaluate a string (password).
+    To understand 4), you may find Pages 14-16 of Lecture 9's slides helpful.
     Use if-elif-else to check all the criteria and print out the messages.
 '''
 
